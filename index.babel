@@ -7,22 +7,4 @@
 // PLEASE NOTE: Adding global style rules using the * selector, or by adding rules to body {..} or html {..}, or to all elements within body or html, i.e. h1 {..}, has the potential to pollute the test suite's CSS. Try adding: * { color: red }, for a quick example!
 
 // Once you have read the above messages, you can delete all comments. 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <title>Fork Me! FCC: Test Suite Template</title>
-    <link rel="stylesheet" href="css/style.css">
-  </head>
 
-  <body>
-    <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-    <h1>Hello World!</h1>
-    <!--
-    <h2 id ="header"><img source="" id ="header-img" ></h2>
-    
-    
-    -->
-    <script  src="js/index.js"></script>
-  </body>
-</html>
